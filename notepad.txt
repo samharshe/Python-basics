@@ -1,0 +1,63 @@
+FOR REVIEWING WHAT I'VE LEARNED
+
+what are extensions and embeddings?
+what is the shell? 
+what is the terminal?
+what is linting? what tool is usually used to implement it in Python?
+what are batch files?
+what is the difference between libraries, modules, and packages in Python?
+where is the Python executable normally stored?
+what does it mean to add a path to PATH?
+what is the difference between the commands `python -m` and `python -c`?
+what is the default value of `sys.argv[0]`?
+what does the command echo do?
+what is a UNIX shebang line?
+what kind of encoding does Python use by default?
+what are identifiers in Python?
+what are the conventions for naming identifiers in Python?
+what is the floor operator?
+how do you access the last command in the Python interactive shell?
+what does `_` do in the interactive shell?
+how does one denote complex numbers? why this way?
+what is the difference in output between invoking and printing a string?
+how does one create a raw string?
+what happens to strings in Python juxtaposed with nothing between them?
+can you change the value at a particular position in a Python string with indexing?
+what is the easiest way to iterate over all characters in a string in Python?
+what is a sequence type in Python?
+what is an iterable in Python?
+which of strings and lists is mutable? what does this mean?
+how do you concatenate two lists in Python?
+does simple assignment in Python copy data? what are the implications of this?
+what does the `id()` function do?
+do slice operations return copies?
+what is the difference between shallow and deep copies?
+when does modifying a shallow copy modify the original?
+what is the point of `[:]`?
+what are the truth values of integers in Python? lists?
+how do you terminate a raw string that ends in an odd number of backslashes?
+how best to remove an item from a dictionary in Python given its key?
+what is the default way that Python iterates over dictionaries?
+what does `dictionary.items()` return?
+what should you make sure of to avoid runtime errors when modifying a dictionary that you're iterating over?
+does type casting in Python return a copy of the data?
+why is it important that `range(x)` doesn't necessarily create a list?
+what kind of input does `sum()` take?
+what does `continue` do in a loop?
+in a `for-else` block, under what circumstances is the `else` clause executed?
+what about in a `while-else` block?
+what is the syntax of a `match` statement?
+what is the syntax to combine multiple cases in one in a `match` statement?
+if you specify the which arguments are which in a construction, as in `Class(x=...,y=...)`, does the order of `x` and `y` matter?
+what is the point of `__match_args__`? when is it called?
+what is the syntax for conditional patterns?
+when is a function in Python able to change the value of its arguments?
+if a function with a default value modifies that value, what happens when that function is called multiple times?
+does the order of kwargs matter?
+what is the structure of `*arguments`? `**keywords`?
+how are `/` and `*` used in Python function definitions?
+within the function, what is the type of the key of a kwarg?
+what is the only kind of argument that can appear after `*args`?
+what does prepending `*` to a list or tuple do?
+what data type can `**` be prepended to?
+https://docs.python.org/3/tutorial/datastructures.html
